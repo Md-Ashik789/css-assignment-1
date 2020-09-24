@@ -1,0 +1,32 @@
+body{
+    background-color: snow;
+}
+.th{
+    color: white;
+    background-color: tomato;
+    height: 50px;
+}
+.first{
+   background-color: dodgerblue;
+   color: gold;
+   text-align: center;
+   height: 40px;
+}
+.second{
+background-color: lightseagreen;
+color: crimson;
+text-align: center;
+height: 40px;
+}
+.third{
+    background-color: lightcoral;
+color: darkcyan;
+    text-align: center;
+    height: 40px;
+}
+.fourth{
+    background-color: cornflowerblue;
+    color: cyan;
+    text-align: center;
+    height: 40px;
+}
